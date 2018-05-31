@@ -1,5 +1,4 @@
-Eclipse Mosquitto Time based filter ver By Yongseok
-##Eclipse Mosquitto
+Eclipse Mosquitto Time based filter Version By Yongseok
 =================
 
 Mosquitto is an open source implementation of a server for version 3.1 and
